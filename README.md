@@ -18,7 +18,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/dikshantrajput/Hacktoberfest-accepted-2022">
 </p>
 
-# Upload Projects or Different Types of Programs in any Language
+# Upload Data structure programs or Algorithms in CPP
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
